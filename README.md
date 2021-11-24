@@ -1,7 +1,7 @@
 # ▎ FullStack Developer - 090.js       
 * * *       
 
-![KakaoTalk_20211121_174052381](https://user-images.githubusercontent.com/49832278/143248021-cf04afc1-2693-4dcc-a102-58d8423a34f8.jpg)
+![KakaoTalk_20211121_174052381](https://user-images.githubusercontent.com/49832278/143249782-a82d05de-8277-46ab-98be-1ef68ec29ff9.jpg)
 
  <a href="[http://15.165.129.122:3000/]" target="_blank"><img src="https://img.shields.io/badge/preppy-web-ff0000?style=flat-square&logo=[appveyor]&logoColor=white"/></a>
  
