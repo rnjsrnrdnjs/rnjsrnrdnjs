@@ -1,10 +1,14 @@
 # ▎ FullStack Developer - 090.js       
 * * *       
-|![KakaoTalk_20211121_174052381](https://user-images.githubusercontent.com/49832278/143249782-a82d05de-8277-46ab-98be-1ef68ec29ff9.jpg)| ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rnjsrnrdnjs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsrnrdnjs&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+|![KakaoTalk_20211121_174052381](https://user-images.githubusercontent.com/49832278/143249782-a82d05de-8277-46ab-98be-1ef68ec29ff9.jpg)| 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rnjsrnrdnjs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsrnrdnjs&theme=radical)] 
+|
 
 <a href="[http://15.165.129.122:3000/]" target="_blank"><img src="https://img.shields.io/badge/preppy-web-ff0000?style=flat-square&logo=[appveyor]&logoColor=white"/></a>
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) - https://play.google.com/store/apps/details?id=com.x090.preppy|
+
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) - https://play.google.com/store/apps/details?id=com.x090.preppy
+
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) - 곧 출시예정|
 
 
