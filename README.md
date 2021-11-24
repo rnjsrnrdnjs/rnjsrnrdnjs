@@ -1,14 +1,13 @@
 # ▎ FullStack Developer - 090.js       
 * * *       
 
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="http://15.165.129.122:3000/">
-  </iframe>
+![KakaoTalk_20211121_174052381](https://user-images.githubusercontent.com/49832278/143248021-cf04afc1-2693-4dcc-a102-58d8423a34f8.jpg)
+  <a href="[http://15.165.129.122:3000/]" target="_blank"><img src="https://img.shields.io/badge/[preppy-web]-[ff0000]?style=flat-square&logo=[appveyor]&logoColor=white"/></a> http://15.165.129.122:3000/
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) - https://play.google.com/store/apps/details?id=com.x090.preppy
+  ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) - 곧 출시예정
   
  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rnjsrnrdnjs)
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsrnrdnjs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  ## ▎🛠 Tech Stacks
 - Algorithm : ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
