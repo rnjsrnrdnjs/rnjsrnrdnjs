@@ -1,17 +1,21 @@
 # ▎ FullStack Developer - 090.js       
 * * *       
+|----------|:-------------:|
+|![KakaoTalk_20211121_174052381](https://user-images.githubusercontent.com/49832278/143249782-a82d05de-8277-46ab-98be-1ef68ec29ff9.jpg)| ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rnjsrnrdnjs)|
+|<a href="[http://15.165.129.122:3000/]" target="_blank"><img src="https://img.shields.io/badge/preppy-web-ff0000?style=flat-square&logo=[appveyor]&logoColor=white"/></a>|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsrnrdnjs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+|![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) - https://play.google.com/store/apps/details?id=com.x090.preppy|
+|![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) - 곧 출시예정|
 
-![KakaoTalk_20211121_174052381](https://user-images.githubusercontent.com/49832278/143249782-a82d05de-8277-46ab-98be-1ef68ec29ff9.jpg)
 
- <a href="[http://15.165.129.122:3000/]" target="_blank"><img src="https://img.shields.io/badge/preppy-web-ff0000?style=flat-square&logo=[appveyor]&logoColor=white"/></a>
+
+
+
  
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) - https://play.google.com/store/apps/details?id=com.x090.preppy
+ 
 
-  ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) - 곧 출시예정
+
   
- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rnjsrnrdnjs)
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsrnrdnjs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
  ## ▎🛠 Tech Stacks
 - Algorithm : ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 - Front-end : ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
